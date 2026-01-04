@@ -814,7 +814,6 @@ function mostrarOcultarMenu(){
         menuVisible = true
     }
 }
-
 function seleccionar(){
     //ocultar el menu una vez seleccione la opcion
     document.getElementById("nav").classList="";
