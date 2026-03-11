@@ -38,12 +38,14 @@ The project follows a standard frontend organization to ensure maintainability.
 ```
 OsloGuide/
 │
-├── css/             # Stylesheets (layout, typography, and responsiveness)
-├── img/             # Optimized image assets (landmarks and icons)
-├── js/              # Client-side interactivity scripts
+├── styles/             # Stylesheets (layout, typography, and responsiveness)
+├── assets/             # Optimized image assets (landmarks and icons)
+├── scripts/              # Client-side interactivity scripts
 ├── index.html       # Main entry point and structural markup
 └── README.md        # Project documentation
 ```
+
+---
 
 ### Component Overview
 
@@ -80,11 +82,15 @@ git clone https://github.com/OvidioMT/OsloGuide.git
 cd OsloGuide
 ```
 
+---
+
 ##2. Local Development
 Since this is a static site, you don't need to install dependencies via npm or pip. You can simply:
 
 1. Open index.html directly in your browser.
 2. OR use a local server (like "Live Server" in VS Code) for real-time updates.
+
+---
 
 ##3. Deployment
 To deploy your own version:
