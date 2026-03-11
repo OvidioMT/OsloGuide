@@ -56,7 +56,7 @@ OsloGuide/
 
 ### Deployment & Hosting
 * **GitHub Pages** — Hosting for the live production environment.
-* ** Link: ** https://ovidiomt.github.io/OsloGuide/
+* **Link:** https://ovidiomt.github.io/OsloGuide/
 ---
 
 # Project Setup
