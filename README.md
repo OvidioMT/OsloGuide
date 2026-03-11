@@ -47,20 +47,6 @@ OsloGuide/
 
 ---
 
-### Component Overview
-
-**index.html**
-* Defines the semantic structure of the site.
-* Implements SEO best practices with appropriate meta tags.
-
-**css/**
-* Contains the design system, including color palettes (inspired by Nordic minimalism) and grid/flexbox layouts.
-
-**img/**
-* Stores compressed visual assets to ensure high performance and fast "First Contentful Paint" (FCP).
-
----
-
 # Tech Stack
 
 ### Frontend Core
@@ -70,7 +56,7 @@ OsloGuide/
 
 ### Deployment & Hosting
 * **GitHub Pages** — Hosting for the live production environment.
-
+* **Link: ** https://ovidiomt.github.io/OsloGuide/
 ---
 
 # Project Setup
@@ -84,7 +70,7 @@ cd OsloGuide
 
 ---
 
-##2. Local Development
+## 2. Local Development
 Since this is a static site, you don't need to install dependencies via npm or pip. You can simply:
 
 1. Open index.html directly in your browser.
@@ -92,7 +78,7 @@ Since this is a static site, you don't need to install dependencies via npm or p
 
 ---
 
-##3. Deployment
+## 3. Deployment
 To deploy your own version:
 
 1. Push your changes to your GitHub repository.
