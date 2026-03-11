@@ -78,15 +78,6 @@ Since this is a static site, you don't need to install dependencies via npm or p
 
 ---
 
-## 3. Deployment
-To deploy your own version:
-
-1. Push your changes to your GitHub repository.
-2. Go to Settings > Pages.
-3. Select the main branch as the source and click Save.
-
----
-
 # Credits
 
 ### Author
