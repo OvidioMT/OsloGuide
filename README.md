@@ -1,4 +1,4 @@
-# OsloGuide v1.0
+# OsloGuide
 
 ## Description
 
